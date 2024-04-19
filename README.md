@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsniharsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsniharsharma?logo=twitter&style=for-the-badge" alt="itsniharsharma" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **itsniharsharmas@gmail.com**
 
