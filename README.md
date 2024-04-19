@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **itsniharsharmas@gmail.com**
 
-- ⚡ Fun fact **being a class is more valuable, rather being an object**
+- ⚡ **being a class is more valuable, rather being an object**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
