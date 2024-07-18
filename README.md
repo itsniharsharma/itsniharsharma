@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **Frameworks and stacks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsniharsharma](https://github.com/itsniharsharma)
-
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **itsniharsharmas@gmail.com**
 
 - ⚡ Fun fact **Be a class rather than object**
