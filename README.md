@@ -42,7 +42,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/> </a>
+  <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kali_linux/kali_linux-ar21.svg" alt="kali linux" width="40" height="40"/> </a>
+  <a href="https://www.excel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg" alt="excel" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="power bi" width="40" height="40"/> </a>
+  <a href="https://www.security.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cybersecurity/cybersecurity-original.svg" alt="cybersecurity" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsniharsharma&show_icons=true&locale=en&layout=compact" alt="itsniharsharma" /></p>
