@@ -17,6 +17,7 @@
 <a href="https://twitter.com/itsniharsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsniharsharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nihar-sharma-502a85283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihar-sharma-502a85283" height="30" width="40" /></a>
 <a href="https://instagram.com/itsniharsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsniharsharma" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/itsniharsharma" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="itsniharsharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,8 +49,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsniharsharma&show_icons=true&locale=en" alt="itsniharsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsniharsharma&" alt="itsniharsharma" /></p> 
-
-<a href="https://www.kaggle.com/itsniharsharma" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="itsniharsharma" height="30" width="40" /></a>
 
 ---
 
