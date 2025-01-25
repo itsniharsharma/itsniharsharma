@@ -6,11 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/itsniharsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsniharsharma?logo=twitter&style=for-the-badge" alt="itsniharsharma" /></a> </p>
 
-- 🔭 I’m currently working on [fullStack01](https://github.com/itsniharsharma/fullStack01)
-
-- 🌱 I’m currently learning **Frameworks and stacks**
-
-- 📫 How to reach me **itsniharsharmas@gmail.com**
+I am loving to evolve my skills in the field of full stack data expert
+Lurking the sights of Data Engineering :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
