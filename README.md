@@ -17,8 +17,6 @@ Enthusiastic about understanding the full data lifecycle, from generation
 to actionable insights, leveraging its power to drive decision-making and 
 uncover opportunities.
 
-Committed to continuous learning and innovation, aiming to contribute 
-meaningfully to the data-driven future while embracing curiosity and problem-solving. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
