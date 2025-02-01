@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/itsniharsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsniharsharma?logo=twitter&style=for-the-badge" alt="itsniharsharma" /></a> </p>
 
-Passionate about evolving my skills in the dynamic field of 
-full-stack data expertise, focusing on uncovering insights 
-and creating value from raw information.
+🚀 Passionate about advancing full-stack data expertise, transforming raw information into actionable insights.
+⚙️ Focused on data engineering—designing, building, and optimizing scalable data systems.
+📊 Exploring data science and analytics to extract value and drive strategic decision-making.
+🔍 Committed to mastering the full data lifecycle, from generation to impactful insights.
 
-Fascinated by data engineering, with an emphasis on designing
-building and optimizing systems for managing vast volumes of 
-data, while exploring related areas like data science and analytics.
 
-Enthusiastic about understanding the full data lifecycle
-from generation to actionable insights, leveraging its 
-power to drive decision-making and uncover opportunities.
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
