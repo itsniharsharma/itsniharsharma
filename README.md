@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/itsniharsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsniharsharma?logo=twitter&style=for-the-badge" alt="itsniharsharma" /></a> </p>
 
-🚀 Passionate about advancing full-stack data expertise, transforming raw information into actionable insights.
-⚙️ Focused on data engineering—designing, building, and optimizing scalable data systems.
-📊 Exploring data science and analytics to extract value and drive strategic decision-making.
+🚀 Passionate about advancing full-stack data expertise, transforming raw information into actionable insights.\n
+⚙️ Focused on data engineering—designing, building, and optimizing scalable data systems.\n
+📊 Exploring data science and analytics to extract value and drive strategic decision-making.\n
 🔍 Committed to mastering the full data lifecycle, from generation to impactful insights.
 
 
