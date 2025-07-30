@@ -6,7 +6,63 @@
 
 <p align="left"> <a href="https://twitter.com/itsniharsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsniharsharma?logo=twitter&style=for-the-badge" alt="itsniharsharma" /></a> </p>
 
-DataOps | Big Data Engineer | Data Security | Data management | Data architecture | Cloud-Native ETL Pipelines (AWS | GCP | Azure) | Databricks| SQL | Building Real-Time Data Systems | 🚀 Engineering Smart Data Flows
+
+
+# 👋 Hey there! I'm Nihar Sharma
+
+🚀 I'm a passionate **DataOps | DevOps | Full-Stack Developer | Data Engineer**, constantly building bridges between **data pipelines**, **scalable backend systems**, and **production-grade deployments**. I architect systems that don't just *work* — they *scale, monitor, log, automate, and deliver insights in real-time*.
+
+---
+
+## 🔧 Tech Toolbox
+
+### 💾 Data Engineering / DataOps
+- **Databases**: PostgreSQL • MySQL • MongoDB • Redis • Cassandra • DynamoDB
+- **Data Pipelines**: Apache Airflow • Apache Kafka • Apache Spark • AWS Glue • dbt • Luigi
+- **Batch & Stream Processing**: Kafka Streams • Spark Structured Streaming • Flink
+- **ETL/ELT Tools**: Pandas • PySpark • SQLAlchemy • Talend
+- **Cloud Storage**: AWS S3 • Azure Blob • GCP Cloud Storage
+- **Data Lakes & Warehousing**: Snowflake • BigQuery • Redshift • Delta Lake • Hive
+
+### ☁️ DevOps & Cloud
+- **Cloud Providers**: AWS • Azure • GCP
+- **CI/CD**: GitHub Actions • Jenkins • CircleCI • GitLab CI/CD
+- **IaC**: Terraform • AWS CloudFormation • Pulumi
+- **Containerization & Orchestration**: Docker • Kubernetes (K8s) • Helm
+- **Monitoring & Logging**: Prometheus • Grafana • ELK Stack • Loki • Datadog
+
+### 💻 Full Stack Development
+- **Frontend**: React.js • Next.js • Tailwind CSS • TypeScript • Redux
+- **Backend**: Node.js • Express.js • Python (FastAPI / Flask / Django) • Golang • Java Spring Boot
+- **APIs**: RESTful APIs • GraphQL • WebSockets
+- **Auth & Security**: OAuth2 • JWT • Firebase Auth • Helmet • Rate Limiting
+
+### 🧠 Machine Learning & Analytics (Bonus)
+- **ML Tools**: Scikit-learn • XGBoost • TensorFlow • MLflow • LangChain
+- **Experiment Tracking**: Weights & Biases • MLflow
+- **Notebooks & Dashboards**: Jupyter • Streamlit • Power BI • Tableau
+
+---
+
+## 🛠️ Projects & Philosophy
+
+I believe in **automated pipelines**, **clean architecture**, and **end-to-end observability**. Whether it's shipping code to production, deploying reproducible data flows, or creating user-centric apps — I love doing things *the right way* with the right tools.
+
+---
+
+## 📬 Let's Connect!
+
+- 🌐 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🧠 [Blog](https://your-blog.com)
+- 📧 Email: your.email@example.com
+
+---
+
+*“Build systems that think, scale, and evolve.”*
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
