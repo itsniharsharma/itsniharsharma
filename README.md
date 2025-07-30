@@ -8,9 +8,9 @@
 
 
 
-# 👋 Hey there! I'm Nihar Sharma
 
-🚀 I'm a passionate **DataOps | DevOps | Full-Stack Developer | Data Engineer**, constantly building bridges between **data pipelines**, **scalable backend systems**, and **production-grade deployments**. I architect systems that don't just *work* — they *scale, monitor, log, automate, and deliver insights in real-time*.
+
+**DataOps | DevOps | Full-Stack Developer | Data Engineer**, constantly building bridges between **data pipelines**, **scalable backend systems**, and **production-grade deployments**. I architect systems that don't just *work* — they *scale, monitor, log, automate, and deliver insights in real-time*.
 
 ---
 
