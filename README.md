@@ -14,7 +14,15 @@
 
 ## 🚀 About Me
 
-I’m an end-to-end system builder — from **raw data pipelines** to **beautiful frontend UIs**, from **CI/CD automation** to **production-ready APIs**. I build platforms that are **resilient, scalable, observable**, and deliver **real-time intelligence**.
+I design and build systems that turn raw data into meaningful experiences.
+
+From capturing data at the source to serving real-time insights on intuitive dashboards, I work across the entire stack — combining the precision of engineering with the empathy of design. My work spans **data extraction**, **cleaning**, **security**, **storage**, and **transformation**, laying strong foundations in **warehousing** and **pipelines** that are built to scale and adapt.
+
+With a focus on automation, observability, and resilience, I develop robust **ETL workflows**, implement **ML models**, and deploy **production-ready APIs** that fuel intelligent applications. At the front, I create interfaces that feel seamless and interactive, bringing clarity to complexity.
+
+Whether it's orchestrating data with **Airflow**, streaming it through **Kafka**, securing it with best practices, or visualizing it through **modern UIs**, I build platforms that connect dots — across systems, teams, and users.
+
+For me, it's not just about data or code — it’s about creating systems that speak, respond, and evolve. 
 
 ---
 
