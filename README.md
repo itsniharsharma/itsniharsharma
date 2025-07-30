@@ -6,10 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsniharsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsniharsharma?logo=twitter&style=for-the-badge" alt="itsniharsharma" /></a> </p>
 
-🚀 Passionate about advancing full-stack data expertise, transforming raw information into actionable insights.<br>
-⚙️ Focused on data engineering—designing, building, and optimizing scalable data systems.<br>
-📊 Exploring data science and analytics to extract value and drive strategic decision-making.<br>
-🔍 Committed to mastering the full data lifecycle, from generation to impactful insights.
+DataOps | Big Data Engineer | Data Security | Data management | Data architecture | Cloud-Native ETL Pipelines (AWS | GCP | Azure) | Databricks| SQL | Building Real-Time Data Systems | 🚀 Engineering Smart Data Flows
 
 
 <h3 align="left">Connect with me:</h3>
